@@ -1,0 +1,11 @@
+PASS	Basic Statistics	MTGFP2_2.fq
+PASS	Per base sequence quality	MTGFP2_2.fq
+PASS	Per sequence quality scores	MTGFP2_2.fq
+FAIL	Per base sequence content	MTGFP2_2.fq
+PASS	Per sequence GC content	MTGFP2_2.fq
+PASS	Per base N content	MTGFP2_2.fq
+PASS	Sequence Length Distribution	MTGFP2_2.fq
+FAIL	Sequence Duplication Levels	MTGFP2_2.fq
+PASS	Overrepresented sequences	MTGFP2_2.fq
+PASS	Adapter Content	MTGFP2_2.fq
+FAIL	Kmer Content	MTGFP2_2.fq

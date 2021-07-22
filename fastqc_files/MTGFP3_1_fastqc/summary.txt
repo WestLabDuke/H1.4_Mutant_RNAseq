@@ -1,0 +1,11 @@
+PASS	Basic Statistics	MTGFP3_1.fq
+PASS	Per base sequence quality	MTGFP3_1.fq
+PASS	Per sequence quality scores	MTGFP3_1.fq
+FAIL	Per base sequence content	MTGFP3_1.fq
+PASS	Per sequence GC content	MTGFP3_1.fq
+PASS	Per base N content	MTGFP3_1.fq
+PASS	Sequence Length Distribution	MTGFP3_1.fq
+WARN	Sequence Duplication Levels	MTGFP3_1.fq
+PASS	Overrepresented sequences	MTGFP3_1.fq
+PASS	Adapter Content	MTGFP3_1.fq
+FAIL	Kmer Content	MTGFP3_1.fq

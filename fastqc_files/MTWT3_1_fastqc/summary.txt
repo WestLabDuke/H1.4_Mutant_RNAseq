@@ -1,0 +1,11 @@
+PASS	Basic Statistics	MTWT3_1.fq
+PASS	Per base sequence quality	MTWT3_1.fq
+PASS	Per sequence quality scores	MTWT3_1.fq
+FAIL	Per base sequence content	MTWT3_1.fq
+PASS	Per sequence GC content	MTWT3_1.fq
+PASS	Per base N content	MTWT3_1.fq
+PASS	Sequence Length Distribution	MTWT3_1.fq
+FAIL	Sequence Duplication Levels	MTWT3_1.fq
+PASS	Overrepresented sequences	MTWT3_1.fq
+PASS	Adapter Content	MTWT3_1.fq
+FAIL	Kmer Content	MTWT3_1.fq

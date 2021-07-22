@@ -1,0 +1,11 @@
+PASS	Basic Statistics	MTMUT3_2.fq
+PASS	Per base sequence quality	MTMUT3_2.fq
+PASS	Per sequence quality scores	MTMUT3_2.fq
+FAIL	Per base sequence content	MTMUT3_2.fq
+PASS	Per sequence GC content	MTMUT3_2.fq
+PASS	Per base N content	MTMUT3_2.fq
+PASS	Sequence Length Distribution	MTMUT3_2.fq
+FAIL	Sequence Duplication Levels	MTMUT3_2.fq
+PASS	Overrepresented sequences	MTMUT3_2.fq
+PASS	Adapter Content	MTMUT3_2.fq
+FAIL	Kmer Content	MTMUT3_2.fq
